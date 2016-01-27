@@ -1,2 +1,2 @@
 # hello-world
-Hello world project
+Joe here, just testing out Git!
